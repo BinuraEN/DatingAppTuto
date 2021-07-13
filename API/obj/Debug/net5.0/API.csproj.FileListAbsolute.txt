@@ -36,3 +36,10 @@ E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\MySqlConnector.dll
 E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
 E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
 E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
