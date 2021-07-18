@@ -26,7 +26,7 @@ namespace API.Controllers
         {
             using var hmac = new HMACSHA512(); //disposed when using is used
 
-            if (await UserExists(registerDto.Username)) return BadRequest("username us taken");
+            if (await UserExists(registerDto.Username)) return BadRequest("username is taken");
 
             var user = new AppUser
             {
