@@ -44,3 +44,5 @@ E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentic
 E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\Data\userseeddata.json
+E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+E:\DotNet_projects\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
