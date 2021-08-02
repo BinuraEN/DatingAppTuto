@@ -19,6 +19,7 @@ namespace API.Helpers
 
             //since if calculate age is done at entity, it will retrirve all user details in order to do the calculation
             CreateMap<Photo, PhotoDTO>();
+            CreateMap<MemberUpdateDTO, AppUser>();
         }
     }
 }
